@@ -1,4 +1,4 @@
-# PowerShell-Enumeration-and-LOLBin-Detection-via-Microsoft-Defender-Endpoint.
+# PowerShell-Enumeration-and-LOLBin-Detection-via-Microsoft-Defender-Endpoint
 # 🛡️ Cybersecurity Lab: Defender for Endpoint Simulation
 
 ## 📌 Overview
